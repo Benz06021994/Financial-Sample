@@ -4,6 +4,8 @@ This repository is created for sales analysis, overview and insights from Financ
 
 ## Power BI Data Analysis Project  
 
+[pbix File Attached](https://drive.google.com/file/d/12eV02kcNTRJKw_f-_yeTtnztTwnSIpUW/view?usp=drive_link)
+
 ## Overview
  
 This project involves importing, preprocessing, and analyzing a dataset using Power BI to create insightful conclusions. This report includes various visuals, interactive elements, and a neat organization to provide a better outcome and experiences.  
